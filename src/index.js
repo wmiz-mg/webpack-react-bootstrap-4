@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import './main.scss';
+import 'bootstrap';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
